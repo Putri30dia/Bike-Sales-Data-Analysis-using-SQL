@@ -32,7 +32,7 @@ The dashboard was built in Tableau using the results from the SQL data. It provi
 
 ### Tableau Dashboard Screenshot
 
-![Bike Sales Dashboard](path-to-your-dashboard-screenshot)
+![DASHBOARD BIKES SALES](https://github.com/Putri30dia/Bike-Sales-Data-Analysis-using-SQL/blob/main/DASHBOARD%20BIKES%20SALES.png)
 
 ## How to Run This Project
 
